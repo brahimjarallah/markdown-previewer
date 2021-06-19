@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import { FormControl, FormGroup , FormLabel} from "react-bootstrap"
+import { FormGroup , FormLabel} from "react-bootstrap"
 
 let marked  = require('marked')
 export default class App extends Component {
