@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+--------------------
+install 
+npm marked 
+and import cdn
+--------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
